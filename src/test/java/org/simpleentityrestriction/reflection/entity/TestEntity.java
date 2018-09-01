@@ -87,5 +87,4 @@ public class TestEntity {
 		this.belongings = belongings;
 	}
 	
-	
 }

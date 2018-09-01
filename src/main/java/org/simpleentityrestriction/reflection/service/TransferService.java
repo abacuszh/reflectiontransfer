@@ -9,3 +9,4 @@ public interface TransferService {
 	 */
 	public Object transfer( Object ojb );
 }
+

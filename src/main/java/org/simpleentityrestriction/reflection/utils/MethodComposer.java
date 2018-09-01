@@ -24,3 +24,4 @@ public class MethodComposer {
 		return tmpBuffer.toString();
 	}
 }
+
